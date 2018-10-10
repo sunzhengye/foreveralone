@@ -1,1 +1,2 @@
 ﻿复制远成仓库的地址，然后利用改地址将远程仓库clone下来
+Node,Layer,Scene,Panel 在CocosStudio中使用规则
